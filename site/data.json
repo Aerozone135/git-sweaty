@@ -764,6 +764,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18458861263",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 17,
+      "name": "5k #1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18485767123",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 17,
+      "name": "5k #2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18485767271",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1414,6 +1432,16 @@
           "distance": 8354.5,
           "elevation_gain": 37.4,
           "moving_time": 2641.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18485767123",
+            "18485767271"
+          ],
+          "count": 2,
+          "distance": 10237.3,
+          "elevation_gain": 59.8,
+          "moving_time": 3618.0
         }
       },
       "VirtualRide": {
@@ -1429,7 +1457,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:17:55.336855+00:00",
+  "generated_at": "2026-05-13T17:20:35.617481+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
