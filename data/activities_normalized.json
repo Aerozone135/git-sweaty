@@ -1142,5 +1142,18 @@
     "start_date_local": "2026-05-13T08:39:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 41158.1,
+    "elevation_gain": 299.8,
+    "id": "18505225510",
+    "moving_time": 9052.0,
+    "name": "Vibing",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T18:05:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

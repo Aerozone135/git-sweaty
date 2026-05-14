@@ -791,6 +791,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18493900689",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 18,
+      "name": "Vibing",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18505225510",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1232,12 +1241,13 @@
         },
         "2026-05-13": {
           "activity_ids": [
-            "18493900689"
+            "18493900689",
+            "18505225510"
           ],
-          "count": 1,
-          "distance": 6832.4,
-          "elevation_gain": 20.0,
-          "moving_time": 947.0
+          "count": 2,
+          "distance": 47990.5,
+          "elevation_gain": 319.8,
+          "moving_time": 9999.0
         }
       },
       "Run": {
@@ -1475,7 +1485,7 @@
       }
     }
   },
-  "generated_at": "2026-05-13T20:30:17.850884+00:00",
+  "generated_at": "2026-05-14T17:04:42.656870+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
