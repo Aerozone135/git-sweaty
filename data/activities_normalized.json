@@ -1155,5 +1155,18 @@
     "start_date_local": "2026-05-13T18:05:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 6985.3,
+    "elevation_gain": 24.6,
+    "id": "18508452349",
+    "moving_time": 1031.0,
+    "name": "Bike Commute to School Day",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-14T08:51:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

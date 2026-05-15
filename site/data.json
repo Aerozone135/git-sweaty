@@ -800,6 +800,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18505225510",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 8,
+      "name": "Bike Commute to School Day",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18508452349",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1248,6 +1257,15 @@
           "distance": 47990.5,
           "elevation_gain": 319.8,
           "moving_time": 9999.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18508452349"
+          ],
+          "count": 1,
+          "distance": 6985.3,
+          "elevation_gain": 24.6,
+          "moving_time": 1031.0
         }
       },
       "Run": {
@@ -1485,7 +1503,7 @@
       }
     }
   },
-  "generated_at": "2026-05-14T17:04:42.656870+00:00",
+  "generated_at": "2026-05-15T16:54:23.106547+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
