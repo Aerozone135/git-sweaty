@@ -809,6 +809,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18508452349",
       "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 17,
+      "name": "Foggy Gibraltar",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18523676779",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1266,6 +1275,15 @@
           "distance": 6985.3,
           "elevation_gain": 24.6,
           "moving_time": 1031.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18523676779"
+          ],
+          "count": 1,
+          "distance": 50269.8,
+          "elevation_gain": 826.4,
+          "moving_time": 8274.0
         }
       },
       "Run": {
@@ -1503,7 +1521,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T16:54:23.106547+00:00",
+  "generated_at": "2026-05-16T16:01:43.940908+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
