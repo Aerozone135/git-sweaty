@@ -1181,5 +1181,18 @@
     "start_date_local": "2026-05-15T17:20:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 6589.6,
+    "elevation_gain": 0.0,
+    "id": "18536536278",
+    "moving_time": 28806.0,
+    "name": "Arlington + Cathedral Redux",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-16T07:21:53Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

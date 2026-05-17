@@ -818,6 +818,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18523676779",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 7,
+      "name": "Arlington + Cathedral Redux",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18536536278",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1023,6 +1032,15 @@
           "distance": 36311.0,
           "elevation_gain": 3290.1,
           "moving_time": 45902.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18536536278"
+          ],
+          "count": 1,
+          "distance": 6589.6,
+          "elevation_gain": 0.0,
+          "moving_time": 28806.0
         }
       },
       "Ride": {
@@ -1521,7 +1539,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T16:01:43.940908+00:00",
+  "generated_at": "2026-05-17T16:02:30.182687+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
