@@ -1194,5 +1194,18 @@
     "start_date_local": "2026-05-16T07:21:53Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 130525.0,
+    "elevation_gain": 546.0,
+    "id": "18548022760",
+    "moving_time": 16278.0,
+    "name": "Ventura",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T07:21:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

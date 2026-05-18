@@ -827,6 +827,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18536536278",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 7,
+      "name": "Ventura",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18548022760",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1302,6 +1311,15 @@
           "distance": 50269.8,
           "elevation_gain": 826.4,
           "moving_time": 8274.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18548022760"
+          ],
+          "count": 1,
+          "distance": 130525.0,
+          "elevation_gain": 546.0,
+          "moving_time": 16278.0
         }
       },
       "Run": {
@@ -1539,7 +1557,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T16:02:30.182687+00:00",
+  "generated_at": "2026-05-18T17:32:21.561110+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
