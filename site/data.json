@@ -836,6 +836,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18548022760",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 15,
+      "name": "End of the week",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18615480350",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1320,6 +1329,15 @@
           "distance": 130525.0,
           "elevation_gain": 546.0,
           "moving_time": 16278.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18615480350"
+          ],
+          "count": 1,
+          "distance": 47876.3,
+          "elevation_gain": 1420.4,
+          "moving_time": 10509.0
         }
       },
       "Run": {
@@ -1557,7 +1575,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:12:11.698338+00:00",
+  "generated_at": "2026-05-23T16:05:26.340799+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
