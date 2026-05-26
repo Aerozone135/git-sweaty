@@ -845,6 +845,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18615480350",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 10,
+      "name": "Gibraltar again",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18653323075",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1338,6 +1347,15 @@
           "distance": 47876.3,
           "elevation_gain": 1420.4,
           "moving_time": 10509.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18653323075"
+          ],
+          "count": 1,
+          "distance": 61865.6,
+          "elevation_gain": 1295.8,
+          "moving_time": 10829.0
         }
       },
       "Run": {
@@ -1575,7 +1593,7 @@
       }
     }
   },
-  "generated_at": "2026-05-25T17:10:07.647568+00:00",
+  "generated_at": "2026-05-26T17:57:22.482348+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
