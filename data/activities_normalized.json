@@ -1246,5 +1246,18 @@
     "start_date_local": "2026-05-26T17:20:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 52244.3,
+    "elevation_gain": 719.4,
+    "id": "18722754868",
+    "moving_time": 7791.0,
+    "name": "Goodbye Farren Road",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T16:59:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -863,6 +863,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18669797189",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 16,
+      "name": "Goodbye Farren Road",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18722754868",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1365,6 +1374,15 @@
           "distance": 61865.6,
           "elevation_gain": 1295.8,
           "moving_time": 10829.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18722754868"
+          ],
+          "count": 1,
+          "distance": 52244.3,
+          "elevation_gain": 719.4,
+          "moving_time": 7791.0
         }
       },
       "Run": {
@@ -1611,7 +1629,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T16:08:30.230903+00:00",
+  "generated_at": "2026-05-31T16:15:50.675471+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
