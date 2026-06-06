@@ -1285,5 +1285,31 @@
     "start_date_local": "2026-06-02T15:18:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 74959.9,
+    "elevation_gain": 1494.4,
+    "id": "18801495843",
+    "moving_time": 13536.0,
+    "name": "One last Gibraltar",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T15:18:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 8955.6,
+    "elevation_gain": 346.2,
+    "id": "18811963843",
+    "moving_time": 4042.0,
+    "name": "Iron Mountain",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T07:14:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
