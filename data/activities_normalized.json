@@ -1324,5 +1324,31 @@
     "start_date_local": "2026-06-06T07:14:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 16175.5,
+    "elevation_gain": 951.8,
+    "id": "18883482581",
+    "moving_time": 15625.0,
+    "name": "Wheeler Peak: New Mexico Highpoint",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-10T11:15:07Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 13708.6,
+    "elevation_gain": 243.8,
+    "id": "18883482354",
+    "moving_time": 9783.0,
+    "name": "Black Mesa: Oklahoma Highpoint",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-11T07:33:36Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
