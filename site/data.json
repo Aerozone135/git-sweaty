@@ -935,6 +935,78 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18883482354",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 7,
+      "name": "Red Shirt Table: Badlands NP High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18923695410",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 9,
+      "name": "Rankin Ridge: Wind Cave NP High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18923695447",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 19,
+      "name": "Devils Tower",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18923695571",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 12,
+      "name": "Black Elk Peak: South Dakota High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18923695652",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 7,
+      "name": "Peck Hill: Theodore Roosevelt NP High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18923695558",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 11,
+      "name": "White Butte: North Dakota High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18923695771",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 2,
+      "name": "Hawkeye Point: Iowa High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18923695630",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 15,
+      "name": "Tower Point: Voyageurs NP High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18923695649",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1167,6 +1239,38 @@
           "distance": 13708.6,
           "elevation_gain": 243.8,
           "moving_time": 9783.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18923695410",
+            "18923695447",
+            "18923695571",
+            "18923695652"
+          ],
+          "count": 4,
+          "distance": 17692.1,
+          "elevation_gain": 654.8,
+          "moving_time": 13024.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18923695558",
+            "18923695771"
+          ],
+          "count": 2,
+          "distance": 6226.4,
+          "elevation_gain": 212.0,
+          "moving_time": 4547.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18923695630",
+            "18923695649"
+          ],
+          "count": 2,
+          "distance": 5743.599999999999,
+          "elevation_gain": 119.8,
+          "moving_time": 4457.0
         }
       },
       "Ride": {
@@ -1747,7 +1851,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:27:21.324094+00:00",
+  "generated_at": "2026-06-15T19:06:23.194626+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
