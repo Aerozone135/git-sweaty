@@ -1007,6 +1007,33 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18923695649",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 18,
+      "name": "Isle Royale Backpacking 2/3",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18947931319",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 11,
+      "name": "Isle Royale Backpacking 1/3",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18947931771",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 8,
+      "name": "Isle Royale Backpacking 3/3",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18947931454",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1271,6 +1298,25 @@
           "distance": 5743.599999999999,
           "elevation_gain": 119.8,
           "moving_time": 4457.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18947931319",
+            "18947931771"
+          ],
+          "count": 2,
+          "distance": 21910.1,
+          "elevation_gain": 632.8,
+          "moving_time": 17247.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18947931454"
+          ],
+          "count": 1,
+          "distance": 11449.7,
+          "elevation_gain": 185.8,
+          "moving_time": 8500.0
         }
       },
       "Ride": {
@@ -1851,7 +1897,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:06:23.194626+00:00",
+  "generated_at": "2026-06-16T18:56:22.324133+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",
