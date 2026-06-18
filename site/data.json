@@ -1034,6 +1034,42 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18947931454",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 16,
+      "name": "Eagle Mountain: Minnesota State High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18967185954",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 22,
+      "name": "Charles Mound: Minnesota State High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18967185825",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 12,
+      "name": "Timms Hill: Wisconsin State High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18967225144",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 8,
+      "name": "Mount Curwood: Michigan State High Point",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18967246136",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1311,12 +1347,24 @@
         },
         "2026-06-16": {
           "activity_ids": [
-            "18947931454"
+            "18947931454",
+            "18967185954"
           ],
-          "count": 1,
-          "distance": 11449.7,
-          "elevation_gain": 185.8,
-          "moving_time": 8500.0
+          "count": 2,
+          "distance": 22111.0,
+          "elevation_gain": 464.0,
+          "moving_time": 16195.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18967185825",
+            "18967225144",
+            "18967246136"
+          ],
+          "count": 3,
+          "distance": 5917.9,
+          "elevation_gain": 84.2,
+          "moving_time": 5315.0
         }
       },
       "Ride": {
@@ -1897,7 +1945,7 @@
       }
     }
   },
-  "generated_at": "2026-06-17T17:50:58.735368+00:00",
+  "generated_at": "2026-06-18T18:07:54.919667+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/194543130",
   "repo": "Aerozone135/git-sweaty",

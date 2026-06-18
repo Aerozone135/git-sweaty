@@ -1493,5 +1493,57 @@
     "start_date_local": "2026-06-16T08:04:40Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 10661.3,
+    "elevation_gain": 278.2,
+    "id": "18967185954",
+    "moving_time": 7695.0,
+    "name": "Eagle Mountain: Minnesota State High Point",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-16T16:06:24Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 3906.2,
+    "elevation_gain": 84.2,
+    "id": "18967185825",
+    "moving_time": 2615.0,
+    "name": "Charles Mound: Minnesota State High Point",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-17T22:46:00Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 804.7,
+    "elevation_gain": 0.0,
+    "id": "18967225144",
+    "moving_time": 1800.0,
+    "name": "Timms Hill: Wisconsin State High Point",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-17T12:00:00Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 1207.0,
+    "elevation_gain": 0.0,
+    "id": "18967246136",
+    "moving_time": 900.0,
+    "name": "Mount Curwood: Michigan State High Point",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-17T08:00:55Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
