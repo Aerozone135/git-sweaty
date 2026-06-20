@@ -1545,5 +1545,31 @@
     "start_date_local": "2026-06-17T08:00:55Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 2383.8,
+    "elevation_gain": 12.2,
+    "id": "18991161496",
+    "moving_time": 2179.0,
+    "name": "Bog: Indiana Dunes NP High Point",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-18T05:28:19Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 448.4,
+    "elevation_gain": 25.0,
+    "id": "18991161452",
+    "moving_time": 443.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-19T16:58:31Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
