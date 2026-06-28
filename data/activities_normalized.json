@@ -1623,5 +1623,31 @@
     "start_date_local": "2026-06-22T18:04:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 3105.0,
+    "elevation_gain": 12.4,
+    "id": "19089259541",
+    "moving_time": 1162.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T19:36:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 133263.0,
+    "elevation_gain": 1917.2,
+    "id": "19089260732",
+    "moving_time": 21409.0,
+    "name": "Litchfield Hills",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T08:04:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
